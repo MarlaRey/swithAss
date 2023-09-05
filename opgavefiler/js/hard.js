@@ -13,6 +13,7 @@
 
 
 
+
 /* opgave 2 her */
 
 let myAnsverInput = document.getElementById('answerTwo');
